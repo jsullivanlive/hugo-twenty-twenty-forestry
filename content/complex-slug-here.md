@@ -20,3 +20,8 @@ asdf
 asdf
 
 asdfasdfasd
+
+<div class="center">
+  centered?
+</div>
+  
