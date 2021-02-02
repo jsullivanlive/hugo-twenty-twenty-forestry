@@ -21,7 +21,7 @@ asdf
 
 asdfasdfasd
 
-<div class="center" style="border: 1px solid red;">
+<div class="center" style="border: 1px solid red; text-align: center;">
   centered?
 </div>
   
